@@ -72,7 +72,7 @@ def findingPost():
 
 
 # findingPre()
-# findingIn()
-findingPost()
+findingIn()
+# findingPost()
 print('new')
 print(stack)
